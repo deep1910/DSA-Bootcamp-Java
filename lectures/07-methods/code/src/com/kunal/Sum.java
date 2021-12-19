@@ -39,7 +39,7 @@ public class Sum {
         System.out.println("The sum = " + sum);
     }
 
-    /*
+    /*  syntax of intitialising a function
         return_type name (arguments) {
             // body
             return statement;
